@@ -23,7 +23,7 @@ int main()
 
     while (gameRunning)
     {
-        cout << "\n===== TIC TAC TOE - RUNIC EDITION =====" << endl;
+        cout << "\n===== TIC TAC TOE - Fatalistic Protection vs Fatlistic Death =====" << endl;
         cout << "1. Play Game" << endl;
         cout << "2. Instructions" << endl;
         cout << "3. Exit" << endl;
