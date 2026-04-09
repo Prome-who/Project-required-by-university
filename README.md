@@ -1,7 +1,7 @@
 # Project-required-by-university
 # Tic Tac Toe - Fatalistic protection vs Fatalistic death Edition ♟️
 
-A beautiful console-based Tic Tac Toe game made in C++ with special runic symbols.
+A beautiful console-based Tic Tac Toe game made in C++ with special  symbols.
 
 - **White (ᛉ)** goes first  
 - **Black (𒉭)** goes second  
