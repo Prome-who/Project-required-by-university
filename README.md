@@ -20,9 +20,10 @@ Just like in chess!
 ## How to Run
 
 1. Copy the code into `main.cpp`
-2. Compile and run using Dev-C++ or any C++ compiler
+2. Compile and run using any C++ compiler
 3. Enjoy the game!
 
 ---
 Yea,thats it
-Adeel
+
+by Adeel
