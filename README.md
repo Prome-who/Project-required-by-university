@@ -1,5 +1,5 @@
 # Project-required-by-university
-# Tic Tac Toe - Runic Edition ♟️
+# Tic Tac Toe - fatalistic protection vs fatalistic death Edition ♟️
 
 A beautiful console-based Tic Tac Toe game made in C++ with special runic symbols.
 
